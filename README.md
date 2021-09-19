@@ -5,3 +5,7 @@
 - O(n * log n). Example: A fast sorting algorithm, like quicksort
 - O(n^2). Example: A slow sorting algorithm, like selection sort
 - O(n!). Example: A really slow algorithm, like the traveling salesperson
+
+
+
+Reference: Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People
